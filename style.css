@@ -1,1 +1,47 @@
-body{}
+.btn {
+  background-color: seagreen;
+  border: none;
+  color: white;
+  padding: 15px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#b2 {
+  background-color: darkseagreen;
+  border: none;
+  color: white;
+  padding: 15px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#b3 {
+  background-color: lightseagreen;
+  border: none;
+  color: white;
+  padding: 15px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.col {
+    justify-content: center;
+}
+.jumbotron {
+    color: white;
+    background-color: seagreen;
+    text-align: center;
+}
+.scorecol{
+    align-items: baseline;
+}
